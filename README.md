@@ -47,9 +47,9 @@ This project demonstrates real-world SQL skills including filtering, joins, aggr
 ## 📸 Screenshots / Visuals  
 
 👉 
-![alt text](<Screenshot 2025-10-04 033105.png>)
-1. **ER Diagram** of my database (tables & relationships) → `images/database_schema.png`   
-
+![alt text](<ER Diagram of database-1.png>)
+ **ER Diagram** of my database (tables & relationships) → `images/database_schema.png`   
+ 
 ---
 
 ## 📂 Deliverables  
